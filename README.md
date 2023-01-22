@@ -1,4 +1,5 @@
 # asteroynth
-a playful open modular synth
+a playful open synth
 
-hello
+List of components:
+https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=de6c1d56a3
